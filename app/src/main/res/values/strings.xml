@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="title_activity_look">look</string>
+    <string name="title_activity_item">ItemActivity</string>
+</resources>
